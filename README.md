@@ -89,8 +89,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 Bugs or issues related to openITCOCKPIT itself should be created in the corresponding repository: https://github.com/it-novum/openITCOCKPIT
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 For any further assistance or support, please reach out to the [openITCOCKPIT Community](https://openitcockpit.io/community/).
